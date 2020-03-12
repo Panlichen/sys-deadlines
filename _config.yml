@@ -6,3 +6,5 @@ github_username: All-less
 
 markdown: kramdown
 ga_id: UA-108700898-1
+
+theme: jekyll-theme-cayman
