@@ -3,6 +3,16 @@
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
 
+- name: ICSOC
+  year: 2020
+  id: icsoc2019
+  link: http://www.icsoc.org/
+  deadline: "2020-05-03 23:59:00"
+  timezone: EDT
+  date: November 9-12, 2020
+  place: Chaminade, Santa Cruz, California
+  sub: DS
+
 
 - name: SoCC
   year: 2019
